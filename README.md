@@ -1,20 +1,15 @@
 # Podcastr 🎧
 
-Este aplicativo foi criado durante o evento Next Level Week 5 da Rocketseat.<br>
-O intuito da aplicação é possuir uma central de podcasts onde o usuário pode ouvir cada um dos itens publicados e observar detalhes sobre eles, como membros que participaram, tempo de duração, etc.
-O envolvimento neste projeto teve como objetivo praticar, aprimorar e conhecer novos conceitos relacionado ao **React**, além de ser meu primeiro contato com o framework Next.
+This application was created during the Rocketseat's Next Level Week 5 event.<br>
+Podcastr is an app to centralize podcasts, where users can listen to each of published episodes and read details about them, such as participants, duration, etc.
 
-### Tecnologias usadas: 
+My participation in this project aimed to practice, improvement and learn about new concepts related to **React**. Furthermore, it was my first experience with **NextJS**.
+
+### Technologies: 
 * **_React_**
 * **_Typescript_**
 * **_Next_**
 
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="80"/>
-    <img src="https://img.icons8.com/color/452/typescript.png" width="80"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" width="80" style="margin-left: 20px"/>
-</div>
+In addition to these technologies mentioned above, some other important libraries and tricks were used, such as **_Axios_** to HTTP requests, **_JSON Server_** to simulate data from APIs, Sass, Context API, Audio handling, etc.
 
-Além dessas tecnologias usadas, foram utilizados diversos conceitos e aplicações, como **_Axios_** para requisição a APIs, **_JSON_** Server para simular uma API, Sass, Contexto, trabalhar com áudio etc.
-
-Confira o [repositório oficial](https://github.com/josepholiveira/podcastr) do projeto para mais informações.
+Check out the [project's official repository](https://github.com/josepholiveira/podcastr) on Rocketseat's Github for more information.
