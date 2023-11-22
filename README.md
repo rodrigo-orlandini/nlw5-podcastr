@@ -5,10 +5,11 @@ Podcastr is an app to centralize podcasts, where users can listen to each of pub
 
 My participation in this project aimed to practice, improvement and learn about new concepts related to **React**. Furthermore, it was my first experience with **NextJS**.
 
+---
+
 ### Technologies: 
-* **_React_**
-* **_Typescript_**
-* **_Next_**
+[![Next](.markdown/next.png "Next")](https://nextjs.org/)
+[![Typescript](.markdown/typescript.png "Typescript")](https://www.typescriptlang.org/)
 
 In addition to these technologies mentioned above, some other important libraries and tricks were used, such as **_Axios_** to HTTP requests, **_JSON Server_** to simulate data from APIs, Sass, Context API, Audio handling, etc.
 
